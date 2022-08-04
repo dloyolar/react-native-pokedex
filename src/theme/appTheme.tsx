@@ -4,7 +4,7 @@ export const styles = StyleSheet.create({
   globalMargin: {
     marginHorizontal: 20,
   },
-  pokebolBG: {
+  pokeballBG: {
     width: 300,
     height: 300,
     position: 'absolute',

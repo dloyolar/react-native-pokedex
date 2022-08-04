@@ -10,12 +10,11 @@ import {styles} from '../theme/appTheme';
 export const HomeScreen = () => {
   const {top} = useSafeAreaInsets();
   const {simplePokemonList, loadPokemons} = usePokemonPaginated();
-  console.log(simplePokemonList);
   return (
     <>
       <Image
         source={require('../assets/pokebola.png')}
-        style={styles.pokebolBG}
+        style={styles.pokeballBG}
       />
 
       <View style={{alignItems: 'center'}}>
