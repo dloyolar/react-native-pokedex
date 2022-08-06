@@ -7,6 +7,7 @@ Pokedex APP in React Native for IOS and Android using the famous PokeAPI
 ![image](./simulator.png)
 ![image](./simulator2.png)
 ![image](./simulator3.png)
+![image](./simulator4.png)
 
 ## Installation
 
